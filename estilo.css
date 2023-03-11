@@ -1,0 +1,33 @@
+
+.contenedor{
+    max-width: 1500px;
+    margin: auto;
+    
+    
+}
+.header{
+    background-color: rgb(68, 68, 61);
+    height: 60px;
+    
+}
+
+.menu{
+    background-color: rgb(131, 40, 40);
+    width: 20%;
+    height: 40px;
+    float: left;
+}
+.content{
+    background-color: brown;
+    width: 80%;
+    float: left;
+}
+.container{
+    background-color: rgb(79, 79, 160);
+    overflow: hidden;
+    
+}
+.footer{
+    background-color: red;
+    clear: both;
+}
