@@ -14,20 +14,21 @@
 .menu{
     background-color: rgb(131, 40, 40);
     width: 20%;
-    height: 40px;
-    float: left;
+    
+    
 }
 .content{
     background-color: brown;
     width: 80%;
-    float: left;
 }
 .container{
     background-color: rgb(79, 79, 160);
-    overflow: hidden;
-    
+    display: flex;
+    height: 60px;
+    align-items: center;
+    flex-direction: row-reverse;
 }
 .footer{
     background-color: red;
-    clear: both;
+    height: 30px;
 }
